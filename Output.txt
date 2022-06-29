@@ -1,0 +1,29 @@
+<VTYPE, int>
+<ID, main>
+<LPAREN>
+<RPAREN>
+<LBRACE>
+<VTYPE, int>
+<ID, x>
+<SEMI>
+<ID, x>
+<ASSIGN>
+<INTEGER, 10>
+<SEMI>
+<VTYPE, int>
+<ID, y>
+<SEMI>
+<ID, y>
+<ASSIGN>
+<LPAREN>
+<ID, x>
+<ADDSUB, +>
+<ID, x>
+<RPAREN>
+<MULTIDIV, *>
+<ID, x>
+<SEMI>
+<return>
+<ID, y>
+<SEMI>
+<RBRACE>
